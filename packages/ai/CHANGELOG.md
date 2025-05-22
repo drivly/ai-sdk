@@ -1,5 +1,15 @@
 # ai
 
+## 5.0.0-alpha.4
+
+### Major Changes
+
+- 9315076: chore (ai): rename continueUntil to stopWhen. Rename maxSteps stop condition to stepCountIs.
+
+### Patch Changes
+
+- b32c141: feat (ai): add array support to stopWhen
+
 ## 5.0.0-alpha.3
 
 ### Major Changes

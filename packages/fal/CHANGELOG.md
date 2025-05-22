@@ -1,5 +1,11 @@
 # @ai-sdk/fal
 
+## 1.0.0-alpha.4
+
+### Patch Changes
+
+- 3d1dcca: feat (fal): Set `.providerMetaData` for image model responses
+
 ## 1.0.0-alpha.3
 
 ### Patch Changes

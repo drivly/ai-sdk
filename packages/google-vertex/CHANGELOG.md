@@ -1,5 +1,13 @@
 # @ai-sdk/google-vertex
 
+## 3.0.0-alpha.4
+
+### Patch Changes
+
+- 9ccce3a: feat (google-vertex): Set `.providerMetaData` for image model responses
+- Updated dependencies [ca8aac6]
+  - @ai-sdk/anthropic@2.0.0-alpha.4
+
 ## 3.0.0-alpha.3
 
 ### Patch Changes
