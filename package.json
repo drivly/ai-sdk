@@ -1,5 +1,6 @@
 {
   "name": "ai-repo",
+  "version": "1.0.0",
   "scripts": {
     "build": "turbo build --concurrency 16",
     "build:examples": "turbo build --filter=@example/*",
