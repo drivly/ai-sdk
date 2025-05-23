@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "ai-repo",
   "scripts": {
     "build": "turbo build --concurrency 16",
